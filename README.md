@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduD3v&show_icons=true&locale=en&layout=compact" alt="EduD3v" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduD3v&show_icons=true&locale=en" alt="EduD3v" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduD3v&show_icons=true&bg_color=DEG,5F00A0,03058B&text_color=ffffff&icon_color=ffffff&title_color=ffffff&include_all_commits&count_private&rank_icon=github" alt="EduD3v" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduD3v&label=Profile%20views&color=0e75b6&style=flat" alt="EduD3v" /> </p>
